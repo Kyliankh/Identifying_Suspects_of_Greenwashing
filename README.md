@@ -11,6 +11,8 @@ When this package is not used before, install it by the command: install.package
 The same accounts for the python code. However, for perfect reproducability, a text file named: "requirements.txt" is added to the code folder. 
 Run pip install -r requirements.txt in your shell, to run the code in the exact same environment is was done initially.
 
+Before the code can be executed, change the working directories.
+
 The chronological order in which the code is produced:
 1. exploration.R
 2. preproc_split.R
